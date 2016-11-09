@@ -18,11 +18,11 @@ January 2017: I will be available for hire in Sydney, Australia.
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - International experience across the US, Germany, UK and soon to be Australia
-- Understanding different markets quickly
+- Ability to understand different markets and cultures quickly
 - Achievements
 - Evidence
 
-#### I am ridiculously hungry
+#### I am hungry
 
 *The world is your oyster*
 - Constantly learning and trying new things... During my time at Bazaarvoice, I tried to learn about the company and the inner workings of a business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed each of the different departments from Technical Success, Project Management, Pre-Sales, Marketing and Account Management. This developed into.....
