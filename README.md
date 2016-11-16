@@ -25,11 +25,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### I am hungry
 
 *The world is your oyster*
-- Constantly learning and trying new things... During my time at Bazaarvoice, I tried to learn about the company and the inner workings of a business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed each of the different departments from Technical Success, Project Management, Pre-Sales, Marketing and Account Management. This developed into.....
+- Constantly learning and trying new things... In my previous role, I tried to learn about the company and the inner workings of a business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed each of the different departments from Technical Success, Project Management, Pre-Sales, Marketing and Account Management. This hardned my understanding of X and helped me find out what it is that I really want to do.. code!
 - Personally, I am always trying out new things. Most recently, I've been mastering my skills in the kitchen. In 2015 I tried to understand my sporty side and earned the Royal Yachting Association's Dinghy Certification. I also decided to bring back my former love of running. In March 2015 I could run 2.5 miles. By November I completed the Istanbul Marathon...
 
-####
-
+#### What Gets me Out of Bed in the Morning (edit)
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -51,7 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Dean's List Scholar. Awarded to students maintaining a 3.75/4.0 GPA
 - Beta Alpha Psi National Business Honors Society
 - UTSA Honors Alliance
-- Zeta Tau Alpha Fraternity. This is an international women's fraternity focused on philanthropy for Breast Cancer Education & Awareness, academics and social activities for the members in university. I held the position of Treasurer which entailed responsibility for all financial activities averaging $50,000 for 60+ members, received and sent out invoices, generated new year spending accounts and worked directly with national officers to ensure all cash flows were in line.
+- Zeta Tau Alpha Fraternity. This is an international women's fraternity focused on philanthropy for Breast Cancer Education & Awareness, academics and social activities. During my time as Treasurer, I was responsible for all financial activities averaging $50,000 for 60+ members, received and sent out invoices, generated new year spending accounts and worked directly with national officers to ensure all cash flows were in line.
 
 ## Experience
 
