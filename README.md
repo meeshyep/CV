@@ -11,7 +11,7 @@ Sales taught me a lot about understanding **why** certain components are importa
 January 2017: I will be available for hire in Sydney, Australia.
 
 
-## Skills
+## Skills(or rather, What Gets me Out of Bed in the Morning)
 
 #### I am adaptable
 
@@ -28,7 +28,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Constantly learning and trying new things... In my previous role, I tried to learn about the company and the inner workings of a business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed each of the different departments from Technical Success, Project Management, Pre-Sales, Marketing and Account Management. This hardned my understanding of X and helped me find out what it is that I really want to do.. code!
 - Personally, I am always trying out new things. Most recently, I've been mastering my skills in the kitchen. In 2015 I tried to understand my sporty side and earned the Royal Yachting Association's Dinghy Certification. I also decided to bring back my former love of running. In March 2015 I could run 2.5 miles. By November I completed the Istanbul Marathon...
 
-#### What Gets me Out of Bed in the Morning (edit)
+#### One more skill
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
