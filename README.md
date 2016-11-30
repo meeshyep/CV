@@ -2,7 +2,7 @@
 
 ##Profile
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+(A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.)
 
 I have a passion for technology and how it can make our lives easier, more efficient, connected, and improve the transfer of knowledge. After a successful sales career at two software companies, I've decided to take on a more technical role to understand how technologies work and focus on product development.
 
@@ -11,11 +11,11 @@ Sales taught me a lot about understanding **why** certain components are importa
 January 2017: I will be available for hire in Sydney, Australia.
 
 
-## Skills(or rather, What Gets me Out of Bed in the Morning)
+## Skills
 
 #### I am adaptable
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+(Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.)
 
 - International experience across the US, Germany, UK and soon to be Australia
 - Ability to understand different markets and cultures quickly
@@ -25,8 +25,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### I am hungry
 
 *The world is your oyster*
-- Constantly learning and trying new things... In my previous role, I tried to learn about the company and the inner workings of a business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed each of the different departments from Technical Success, Project Management, Pre-Sales, Marketing and Account Management. This hardned my understanding of X and helped me find out what it is that I really want to do.. code!
-- Personally, I am always trying out new things. Most recently, I've been mastering my skills in the kitchen. In 2015 I tried to understand my sporty side and earned the Royal Yachting Association's Dinghy Certification. I also decided to bring back my former love of running. In March 2015 I could run 2.5 miles. By November I completed the Istanbul Marathon...
+- At Bazaarvoice, I tried to learn about the company and inner workings of a global business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed different departments, which strengthened my understanding of how each part of an organisation contributes, and most importantly helped me find out what it is that I really want to do (code!).
+- Personally, I am constantly learning and trying new things. While in in London I brought back my former love of running. In March 2015 I could run 2.5 miles. By November 2015 I completed the Istanbul Marathon. I also earned the Royal Yachting Association's Dinghy Certification.
+- Most recently, I've been mastering my skills in the kitchen.
 
 #### One more skill
 
@@ -46,7 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### The University of Texas at San Antonio (August 2009 to December 2013)
 
-- Bachelor of Business Administration (B.B.A.), Minor in International Management
+- Bachelor of Business Administration (B.B.A.). Minor in International Management
 - Dean's List Scholar. Awarded to students maintaining a 3.75/4.0 GPA
 - Beta Alpha Psi National Business Honors Society
 - UTSA Honors Alliance
@@ -55,9 +56,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Bazaarvoice Ltd.** (September 2014 to August 2016)    
-*Market Development Manager*  
+*Market Development Manager* <br>
 **Intraworlds** (April 2014 to August 2014)   
-*UK/US Business Development Intern*  
+*UK/US Business Development Intern* <br>
 **Enterprise Rent-A-Car** (August 2013 - December 2013)
 *Management Trainee Intern*
 
