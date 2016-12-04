@@ -13,7 +13,7 @@ January 2017: I will be available for hire in Sydney, Australia.
 
 ## Skills
 
-#### I am adaptable
+#### Adaptable
 
 (Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.)
 
@@ -22,12 +22,13 @@ January 2017: I will be available for hire in Sydney, Australia.
 - Achievements
 - Evidence
 
-#### I am hungry
+#### Resilient   
+- Sales
+- Intense 12 week bootcamp Live eat sleep breathe coding
 
-*The world is your oyster*
+#### Hungry  
 - At Bazaarvoice, I tried to learn about the company and inner workings of a global business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed different departments, which strengthened my understanding of how each part of an organisation contributes, and most importantly helped me find out what it is that I really want to do (code!).
-- Personally, I am constantly learning and trying new things. While in in London I brought back my former love of running. In March 2015 I could run 2.5 miles. By November 2015 I completed the Istanbul Marathon. I also earned the Royal Yachting Association's Dinghy Certification.
-- Most recently, I've been mastering my skills in the kitchen.
+- Personally, I am constantly learning and trying new things. In March 2015 I could run 2.5 miles. By November 2015 I completed the Istanbul Marathon. I also earned the Royal Yachting Association's Dinghy Certification.
 
 #### One more skill
 
@@ -51,7 +52,7 @@ January 2017: I will be available for hire in Sydney, Australia.
 - Dean's List Scholar. Awarded to students maintaining a 3.75/4.0 GPA
 - Beta Alpha Psi National Business Honors Society
 - UTSA Honors Alliance
-- Zeta Tau Alpha Fraternity. This is an international women's fraternity focused on philanthropy for Breast Cancer Education & Awareness, academics and social activities. During my time as Treasurer, I was responsible for all financial activities averaging $50,000 for 60+ members, received and sent out invoices, generated new year spending accounts and worked directly with national officers to ensure all cash flows were in line.
+- Zeta Tau Alpha Fraternity. This is an international women's fraternity focused on philanthropy for Breast Cancer Education & Awareness, academics and social activities. During my time as Treasurer, I was responsible for all financial activities averaging $50,000 for 60+ members.
 
 ## Experience
 
