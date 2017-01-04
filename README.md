@@ -4,13 +4,16 @@
 
 I have a passion for technology and how it can make our lives easier, more efficient, connected, and improve the transfer of knowledge. After a successful sales career at two software companies, I've decided to take on a more technical role to understand how technologies work and focus on product development. Sales taught me a lot about understanding **why** certain components are important to the customer. My next objective is to focus on the **how** and build out new platforms to meet ever-growing needs.
 
-I am driven by the idea that software and technology can be used to impact people and our planet for the better. Joining a company that values working on projects which achieve Tech for Good initiatives would be an ideal environment to start this next step.
+I am driven by the idea that software and technology can be used to impact people and our planet for the better. Joining a company that values working on projects which achieve Tech for Good initiatives would be an ideal environment to start this next step. I'm available for hire in Sydney, Australia. 
+
+LinkedIn: www.linkedin.com/in/michelleepstein
+
 
 ## Skills
 
 #### Adaptable
 
-- International experience across the US, Germany, UK and soon to be Australia
+- International experience across the US, Germany and UK
 - Ability to understand different markets and cultures quickly
 - Asked to help a new colleauge who moved to the Bazaarvoice London office with tips on settling into the new professional and personal environment
 
