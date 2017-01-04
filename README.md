@@ -2,7 +2,9 @@
 
 ##Profile
 
-I have a passion for technology and how it can make our lives easier, more efficient, connected, and improve the transfer of knowledge. After a successful sales career at two software companies, I've decided to take on a more technical role to understand how technologies work and focus on product development. Joining a company that values working on projects which achieve Tech for Good initiatives would be an ideal environment to start this next step. Sales taught me a lot about understanding **why** certain components are important to the customer. My next objective is to focus on the **how** and build out new platforms to meet ever-growing needs.
+I have a passion for technology and how it can make our lives easier, more efficient, connected, and improve the transfer of knowledge. After a successful sales career at two software companies, I've decided to take on a more technical role to understand how technologies work and focus on product development. Sales taught me a lot about understanding **why** certain components are important to the customer. My next objective is to focus on the **how** and build out new platforms to meet ever-growing needs.
+
+I am driven by the idea that software and technology can be used to impact people and our planet for the better. Joining a company that values working on projects which achieve Tech for Good initiatives would be an ideal environment to start this next step.
 
 ## Skills
 
@@ -10,15 +12,15 @@ I have a passion for technology and how it can make our lives easier, more effic
 
 - International experience across the US, Germany, UK and soon to be Australia
 - Ability to understand different markets and cultures quickly
-- Asked to help new hire in the Bazaarvoice London office with tips on settling into the new professional and personal environment
+- Asked to help a new colleauge who moved to the Bazaarvoice London office with tips on settling into the new professional and personal environment
 
 #### Resilient   
-- Sales honed my ability to handle rejection and keep going. In FY16 I was recognized for having the highest number of sourced closed deals in EMEA.
+- Sales honed my ability to handle rejection and keep going. My persistence paid off as in FY16 I was recognized for having the highest number of sourced closed deals in EMEA.
 - Completed Makers Academy - Intense 12 week bootcamp where you live, eat, sleep, breathe coding
 
 #### Hungry  
 - At Bazaarvoice, I tried to learn about the company and inner workings of a global business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed different departments, which strengthened my understanding of how each part of an organisation contributes, and most importantly helped me find out what it is that I really want to do (code!).
-- Personally, I am constantly learning and trying new things. In March 2015 I could run 2.5 miles. By November 2015 I completed the Istanbul Marathon. I also earned the Royal Yachting Association's Dinghy Certification.
+- Personally, I am constantly learning and trying new things. In March 2015 I could run 2.5 miles. By November 2015 I completed the Istanbul Marathon. Since then I have ran three more half marathons and have earned the Royal Yachting Association's Dinghy Certification.
 
 #### Team Focused
 
