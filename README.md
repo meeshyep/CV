@@ -2,40 +2,28 @@
 
 ##Profile
 
-(A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.)
-
-I have a passion for technology and how it can make our lives easier, more efficient, connected, and improve the transfer of knowledge. After a successful sales career at two software companies, I've decided to take on a more technical role to understand how technologies work and focus on product development.
-
-Sales taught me a lot about understanding **why** certain components are important to the customer. My next objective is to focus on the **how** and build out new platforms to meet ever-growing needs.
-
-January 2017: I will be available for hire in Sydney, Australia.
-
+I have a passion for technology and how it can make our lives easier, more efficient, connected, and improve the transfer of knowledge. After a successful sales career at two software companies, I've decided to take on a more technical role to understand how technologies work and focus on product development. Joining a company that values working on projects which achieve Tech for Good initiatives would be an ideal environment to start this next step. Sales taught me a lot about understanding **why** certain components are important to the customer. My next objective is to focus on the **how** and build out new platforms to meet ever-growing needs.
 
 ## Skills
 
 #### Adaptable
 
-(Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.)
-
 - International experience across the US, Germany, UK and soon to be Australia
 - Ability to understand different markets and cultures quickly
-- Achievements
-- Evidence
+- Asked to help new hire in the Bazaarvoice London office with tips on settling into the new professional and personal environment
 
 #### Resilient   
-- Sales
-- Intense 12 week bootcamp Live eat sleep breathe coding
+- Sales honed my ability to handle rejection and keep going. In FY16 I was recognized for having the highest number of sourced closed deals in EMEA.
+- Completed Makers Academy - Intense 12 week bootcamp where you live, eat, sleep, breathe coding
 
 #### Hungry  
 - At Bazaarvoice, I tried to learn about the company and inner workings of a global business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. I proactively shadowed different departments, which strengthened my understanding of how each part of an organisation contributes, and most importantly helped me find out what it is that I really want to do (code!).
 - Personally, I am constantly learning and trying new things. In March 2015 I could run 2.5 miles. By November 2015 I completed the Istanbul Marathon. I also earned the Royal Yachting Association's Dinghy Certification.
 
-#### One more skill
+#### Team Focused
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Strengthened the sales/marketing relationship at Bazaarvoice by aligning closely on key account campaigns, events and pipeline generation activities
+- Initiated the first training program for new interns at IntraWorlds
 
 ## Education
 
