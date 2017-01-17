@@ -8,11 +8,11 @@ I am driven by the idea that software and technology can be used to impact peopl
 
 Sales taught me a lot about understanding **why** certain components are important to the customer. My next objective is to focus on the **how** and build out new platforms to meet ever-growing needs. You can follow my progression of learning in the projects below:
 
-| ChoreMatick     | Makers Academy final project: Amazon Alexa Skill that allows parents to provide a list of chores for their child. | Java, DynamoDB, AWS, JUnit, Mockito| [Link](https://github.com/ChoreMatick/ChoreMatick/tree/master/chorematick) |
-| Wakey-Wakey     | The alarm clock that gets you out of bed | React Native, iOS, Xcode | [Link](https://github.com/meeshyep/Wakey-Wakey-) |
-| Makery-Yelp     | Mock project that implements the basic features of Yelp | Ruby on Rails, Bootstrap, RSpec | [Link](https://github.com/meeshyep/maker-yelp) |
-| MakersBnB     | Mock project that implements the basic features of AirBnB | Ruby, Sinatra, Bootstrap, RSpec | [Link](https://github.com/meeshyep/makersbnb) |
-| Rock, Paper, Scissors    | Childhood game goes modern à la computer | Ruby, RSpec | [Link](https://github.com/meeshyep/rps-challenge) |
+| ChoreMatick     | Makers Academy final project: Amazon Alexa Skill that allows parents to provide a list of chores for their child. | Java, DynamoDB, AWS, JUnit, Mockito| [Link](https://github.com/ChoreMatick/ChoreMatick/tree/master/chorematick) | <br>
+| Wakey-Wakey     | The alarm clock that gets you out of bed | React Native, iOS, Xcode | [Link](https://github.com/meeshyep/Wakey-Wakey-) |<br>
+| Makery-Yelp     | Mock project that implements the basic features of Yelp | Ruby on Rails, Bootstrap, RSpec | [Link](https://github.com/meeshyep/maker-yelp) | <br>
+| MakersBnB     | Mock project that implements the basic features of AirBnB | Ruby, Sinatra, Bootstrap, RSpec | [Link](https://github.com/meeshyep/makersbnb) | <br>
+| Rock, Paper, Scissors    | Childhood game goes modern à la computer | Ruby, RSpec | [Link](https://github.com/meeshyep/rps-challenge) | <br>
 
 
 
