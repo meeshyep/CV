@@ -24,11 +24,11 @@ Sales taught me a lot about understanding **why** certain components are importa
 - International experience across the US, Germany and UK
 - Ability to understand different markets and cultures quickly
 
-#### Resilient   
-- Sales honed my ability to handle rejection and keep going. My persistence paid off as in FY16 I was recognized for having the highest number of sourced closed deals in EMEA.
+#### Persistent   
+- Sales honed my ability to work through problems and keep going. My resilience paid off as in FY16 I was recognized for having the highest number of sourced closed deals in EMEA.
 - Completed Makers Academy - Intense 12 week bootcamp where you live, eat, sleep, breathe coding
 
-#### Hungry  
+#### Eager to learn  
 - At Bazaarvoice, I tried to learn about the company and inner workings of a global business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. 
 - Personally, I am constantly learning and trying new things. In March 2015 I could run 2.5 miles. Eight months later I completed the Istanbul Marathon. 
 
