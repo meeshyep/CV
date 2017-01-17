@@ -14,7 +14,13 @@ Sales taught me a lot about understanding **why** certain components are importa
 **MakersBnB**: Mock project that implements the basic features of AirBnB | Ruby, Sinatra, Bootstrap, RSpec | [Link](https://github.com/meeshyep/makersbnb)<br>
 **Rock, Paper, Scissors**: Childhood game goes modern à la computer | Ruby, RSpec | [Link](https://github.com/meeshyep/rps-challenge)<br>
 
-
+|Project     | Idea                                                                                   | Tech Stack                           | Link                                                                        |
+|-------     |-----                                                                                   |-----------                           |----                                                                         |
+| ChoreMatick  |   Amazon Alexa Skill that allows parents to provide a list of chores for their child | Java, DynamoDB, AWS, JUnit, Mockito  |  [Link](https://github.com/ChoreMatick/ChoreMatick/tree/master/chorematick) |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 ## Skills
 
