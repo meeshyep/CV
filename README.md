@@ -31,7 +31,6 @@ Sales taught me a lot about understanding **why** certain components are importa
 #### Eager to learn  
 - At Bazaarvoice, I tried to learn about the company and inner workings of a global business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work 
 - For the final project at Makers Acadmey, my team and I figured out how to use Java 8 and Amazon Web Services in two weeks
-- Personally, I am constantly trying new things. In March 2015 I could run 2.5 miles. Eight months later I completed the Istanbul Marathon. Last year I gained the Royal Yachting Association's dingy certification; I plan to test these skills in Syndey. 
 
 #### Team Focused
 
@@ -53,7 +52,7 @@ Sales taught me a lot about understanding **why** certain components are importa
 - Dean's List Scholar. Awarded to students maintaining a 3.75/4.0 GPA
 - Beta Alpha Psi National Business Honors Society
 - UTSA Honors Alliance
-- Zeta Tau Alpha Fraternity. International women's fraternity focused on philanthropy for Breast Cancer Education & Awareness, academics and social activities. During my time as Treasurer, I was responsible for all financial activities averaging $50,000 for 60+ members.
+- Zeta Tau Alpha Fraternity. International women's fraternity focused on philanthropy for Breast Cancer Education & Awareness, academics and social activities. As Treasurer, I was responsible for all financial activities averaging $50,000 for 60+ members.
 
 ## Experience
 
@@ -61,7 +60,7 @@ Sales taught me a lot about understanding **why** certain components are importa
 *Market Development Manager* <br>
 **Intraworlds, Munich** (April 2014 - August 2014)   
 *UK/US Business Development Intern* <br>
-**Enterprise Rent-A-Car, San Antonio** (August 2013 - December 2013)
+**Enterprise Rent-A-Car, San Antonio** (August 2013 - December 2013) <br>
 *Management Trainee Intern*
 
 ## Interests
