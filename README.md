@@ -22,15 +22,16 @@ Sales taught me a lot about understanding **why** certain components are importa
 #### Adaptable
 
 - International experience across the US, Germany and UK
-- Ability to understand different markets and cultures quickly
+- Trained for three months in an agile development environment while learning to code
 
 #### Persistent   
-- Sales honed my ability to work through problems and keep going. My resilience paid off as in FY16 I was recognized for having the highest number of sourced closed deals in EMEA.
+- Sales honed my ability to work through problems and keep going. My resilience paid off as in FY16 I was recognized for having the highest number of sourced closed deals in EMEA
 - Completed Makers Academy - Intense 12 week bootcamp where you live, eat, sleep, breathe coding
 
 #### Eager to learn  
-- At Bazaarvoice, I tried to learn about the company and inner workings of a global business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work and what makes for a successful operation. 
-- Personally, I am constantly learning and trying new things. In March 2015 I could run 2.5 miles. Eight months later I completed the Istanbul Marathon. 
+- At Bazaarvoice, I tried to learn about the company and inner workings of a global business as much as possible. I sat in on various trainings sessions from Salesforce, Marketo and Leadership, always trying to understand more about how processes work 
+- For the final project at Makers Acadmey, my team and I figured out how to use Java 8 and Amazon Web Services in two weeks
+- Personally, I am constantly trying new things. In March 2015 I could run 2.5 miles. Eight months later I completed the Istanbul Marathon. Last year I gained the Royal Yachting Association's dingy certification; I plan to test these skills in Syndey. 
 
 #### Team Focused
 
@@ -52,15 +53,15 @@ Sales taught me a lot about understanding **why** certain components are importa
 - Dean's List Scholar. Awarded to students maintaining a 3.75/4.0 GPA
 - Beta Alpha Psi National Business Honors Society
 - UTSA Honors Alliance
-- Zeta Tau Alpha Fraternity. This is an international women's fraternity focused on philanthropy for Breast Cancer Education & Awareness, academics and social activities. During my time as Treasurer, I was responsible for all financial activities averaging $50,000 for 60+ members.
+- Zeta Tau Alpha Fraternity. International women's fraternity focused on philanthropy for Breast Cancer Education & Awareness, academics and social activities. During my time as Treasurer, I was responsible for all financial activities averaging $50,000 for 60+ members.
 
 ## Experience
 
-**Bazaarvoice Ltd.** (September 2014 to August 2016)    
+**Bazaarvoice Ltd., London** (September 2014 - August 2016)    
 *Market Development Manager* <br>
-**Intraworlds** (April 2014 to August 2014)   
+**Intraworlds, Munich** (April 2014 - August 2014)   
 *UK/US Business Development Intern* <br>
-**Enterprise Rent-A-Car** (August 2013 - December 2013)
+**Enterprise Rent-A-Car, San Antonio** (August 2013 - December 2013)
 *Management Trainee Intern*
 
 ## Interests
